@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Restaurante de Katherine</string>
+    <string name="subtotal_format">Subtotal: %s</string>
+    <string name="total_sin_propina_format">Total sin propina: %s</string>
+    <string name="propina_format">Propina (10%%): %s</string>
+    <string name="total_con_propina_format">Total con propina: %s</string>
+</resources>

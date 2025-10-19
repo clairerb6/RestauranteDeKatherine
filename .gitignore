@@ -1,0 +1,24 @@
+# Folders and files created by Android Studio and Gradle
+.gradle/
+build/
+.idea/
+captures/
+.cxx/
+.externalNativeBuild/
+
+# Local configuration file (sdk path, etc.)
+local.properties
+
+# IDE files
+*.iml
+
+# macOS files
+.DS_Store
+
+# Keystore files (private keys for signing apps)
+*.jks
+*.keystore
+
+# Build outputs
+*.apk
+*.aab
